@@ -28,9 +28,6 @@ Interactivity lies at the heart of the dashboard, allowing users to explore surv
 
 The dashboard employs predictive analytics techniques to forecast future trends and identify emerging patterns among data professionals. By leveraging historical survey data and trend analysis, stakeholders can anticipate changes in the data professional landscape and proactively plan for future workforce needs and skill requirements.
 
-### Data Governance and Security
-
-Data governance and security protocols are paramount to maintaining the integrity and confidentiality of the survey data. The dashboard adheres to best practices in data governance, ensuring compliance with relevant regulations and safeguarding sensitive information against unauthorized access or misuse.
 
 ## Impact: Empowering Decision Makers
 
